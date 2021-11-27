@@ -17,7 +17,7 @@
        <h4>立志为母校争光</h4>
     </td>
     <td width="30%">
-      <img src="/final_img.jpg" width="100%"/>      
+      <img src="/final_img1.jpg" width="100%"/>      
     </td>
   </tr>
 </table>
