@@ -1,3 +1,4 @@
+
 <table border="0">
     <tr>
     <td width="75%">
@@ -14,7 +15,7 @@
       <h2>Contact us</h2>
       <p>yuxinqiang21@mails.ucas.ac.cn</p>
       <h2>Future</h2>
-       <h4>立志为母校争光</h4>
+      <h4>立志为母校争光</h4>
     </td>
     <td width="30%">
       <img src="/final_img1.jpg" width="100%"/>      
