@@ -1,4 +1,7 @@
 <h1>HaoDiao AI Lab, HDAI / 豪刁AI Lab</h1>
+<h2>News</h2>
+<p>HDAI was established on November 26, 2021, which is the testimony of our growth efforts.</p>
+<p>Hope we can meet our better version, together!</p>
 <h2>Member</h2>
 <h4><p>Liaoning Technical University(<a href="https://www.lntu.edu.cn">辽宁工程技术大学</a> , <a href="https://rjxy.lntu.edu.cn">软件学院)</a>毕业生</p><h4>
 <p>Jiahao Geng (lab administrator)</p>
