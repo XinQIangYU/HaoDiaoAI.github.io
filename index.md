@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/XinQIangYU/HaoDiaoAI.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/XinQIangYU/HaoDiaoAI.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<table border="0">
+    <tr>
+    <td width="75%">
+      <h1>HaoDiao AI Lab, HDAI / 豪刁AI Lab</h1>
+      <h2>Member</h2>
+      <h4><p>Liaoning Technical University(<a href="https://www.lntu.edu.cn">辽宁工程技术大学</a> , <a href="https://rjxy.lntu.edu.cn">软件学院)</a>毕业生</p><h4>
+      <h4>Geng Jiahao</h4>
+      <h4>Diao Zhen</h4>
+      <h4>Fang Shuo</h4>
+      <h4>Yin Peng</h4>
+      <h4>Yu Xinqiang</h4>
+      <h2>Research Interests</h2>
+      <p>NLP / CV / GNN</p>
+      <h2>Contact us</h2>
+      <p>yuxinqiang21@mails.ucas.ac.cn</p>
+      <h2>Future</h2>
+       <h4>立志为母校争光</h4>
+    </td>
+    <td width="30%">
+      <img src="/final_img.jpg" width="100%"/>      
+    </td>
+  </tr>
+</table>
